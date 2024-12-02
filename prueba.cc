@@ -6,6 +6,5 @@ int main(int argc, char *argv[]) {
     
     std::cout<< "jajajja \n";
 
-    std::cin>> yes;
     return 0;
 }
